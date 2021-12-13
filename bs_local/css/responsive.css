@@ -1,0 +1,34 @@
+/* RESPONSIVE */
+
+/* Estilos generales a DESKTOP */
+/* TABLET */
+@media 
+    (min-width:600px) and (max-width:992px){
+
+        /* estilos adaptados a tamaño tablet */
+
+    }
+
+    /* MOBILE */
+@media
+(max-width:599px) {
+
+/* estilos adaptados a tamaño MOBILE */
+}
+
+/* +++++++++++++++++++++++++++ */
+
+/* siempre adaptado al tamaño de pantalla mas chico primero */
+
+@media 
+    (min-width:600px) and (max-width:992px){
+
+        /* estilos adaptados a tamaño tablet */
+
+    }
+
+    /* DESKTOP */
+
+    @media (min-width: 993px) {
+        /* estilos adaptados a tamaño DEKTOP */
+    }
